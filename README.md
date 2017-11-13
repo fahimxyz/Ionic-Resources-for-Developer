@@ -1,1 +1,1 @@
-# Ionic-Resources-for-Developer
+# Ionic Resources for Developer
