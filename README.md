@@ -23,6 +23,7 @@ A collection of [Ionic](https://ionicframework.com) tutorials, libraries, resour
 #### i18n & l10n
 
 #### Ionic Native
+* [Installing & Using Ionic Native Plugins] (https://www.youtube.com/watch?v=Loz1yAkvLrY) - Learn how to install and use ionic native plugins, and most importantly, learn how to read the documentation!
 
 #### Ionic CLI
 
