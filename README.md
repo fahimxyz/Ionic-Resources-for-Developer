@@ -30,6 +30,12 @@ A collection of [Ionic](https://ionicframework.com) tutorials, libraries, resour
 
 #### Backend as a Service
 
+#### Real Life Project
+* [How to Make an Ionic 2 App (WifeAlert, ha!)](https://www.youtube.com/watch?v=X77SvygGTkU) - Simple Ionic 2 app by using Geolocation, Geofencing and SMS.
+* [Ionic 3 Mobile Weather App Build](https://www.youtube.com/watch?v=qs2n_poLarc) -  Build a fully working mobile weather app using Ionic 3 and Angular 4.
+* [Build an Ionic Calendar App](https://www.youtube.com/watch?v=GOPEV3sE36o) - Learn to build a calendar into your Ionic app!
+* [Barcode/QR Code Scanner Application with Ionic 2](https://www.youtube.com/watch?v=bogYgE7aYL8) - Create a Barcode/QR Code Scanner Application with Ionic 2
+
 ### Articles and Posts
 
 ### Third Party Libs
@@ -42,9 +48,5 @@ A collection of [Ionic](https://ionicframework.com) tutorials, libraries, resour
 
 ### Demo Apps
 
-## Real Life Project
-* [How to Make an Ionic 2 App (WifeAlert, ha!)](https://www.youtube.com/watch?v=X77SvygGTkU) - Simple Ionic 2 app by using Geolocation, Geofencing and SMS.
-* [Ionic 3 Mobile Weather App Build](https://www.youtube.com/watch?v=qs2n_poLarc) -  Build a fully working mobile weather app using Ionic 3 and Angular 4.
-* [Build an Ionic Calendar App](https://www.youtube.com/watch?v=GOPEV3sE36o) - Learn to build a calendar into your Ionic app!
-* [Barcode/QR Code Scanner Application with Ionic 2](https://www.youtube.com/watch?v=bogYgE7aYL8) - Create a Barcode/QR Code Scanner Application with Ionic 2
+## Projects
 
