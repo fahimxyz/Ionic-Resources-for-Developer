@@ -1,49 +1,37 @@
 # Ionic Resources for Developer
 A collection of [Ionic](https://ionicframework.com) tutorials, libraries, resources and shiny things.
 
-## Videos Tutorials
+### Videos Tutorials
 
-### Basics 
+#### Basics 
 
-### Components
+#### Components
 
-### Authentication
+#### Authentication
 
-### Theming
+#### Theming
 
-### Ionic Native
+#### Form / Input
 
-### Ionic CLI
+#### Ionic Transition Animation
 
-### Backend as a Service
+#### i18n & l10n
 
-## Articles and Posts
+#### Ionic Native
 
-### Basics 
+#### Ionic CLI
 
-### Components
+#### Backend as a Service
 
-### Authentication
+### Articles and Posts
 
-### Theming
+### Third Party Libs
 
-### Ionic Native
+### Books
 
-### Ionic CLI
+### Free Coures
 
-### Backend as a Service
+### Paid Coures
 
-## Third Party Libs
-
-## Books
-
-## Free Coures
-
-## Paid Coures
-
-
-
-
-
-## Demo Apps
+### Demo Apps
 
