@@ -44,14 +44,17 @@ A collection of [Ionic](https://ionicframework.com) tutorials, libraries, resour
 
 #### Free
 
+
 #### Paid
 * [Ionic Framework By Example](https://www.packtpub.com/application-development/ionic-framework-example) - Author: Sani Yusuf - Build amazing cross-platform mobile apps with Ionic, the HTML5 framework that makes modern mobile application development simple
 
-###Coures
+* [Building Mobile Apps with Ionic 2 & 3 ](https://www.joshmorony.com/building-mobile-apps-with-ionic-2/) - Building Mobile Apps with Ionic is an all-in-one resource for learning the latest and greatest version of Ionic. It's constantly updated, so you can rest easy knowing you're not learning outdated tech. 
 
-#### Free Coures
+### Course
 
-#### Paid Coures
+#### Free Course
+
+#### Paid Course
 
 ### Demo Apps
 
